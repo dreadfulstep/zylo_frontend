@@ -1,0 +1,80 @@
+{
+  "colours": [
+    {
+      "name": "Forest",
+      "value": "forest",
+      "hsl": "120, 60%, 40%",
+      "hue": "120"
+    },
+    {
+      "name": "Ocean",
+      "value": "ocean",
+      "hsl": "212, 100%, 50%",
+      "hue": "212"
+    },
+    {
+      "name": "Sunset",
+      "value": "sunset",
+      "hsl": "25, 100%, 50%",
+      "hue": "25"
+    },
+    {
+      "name": "Lavender",
+      "value": "lavender",
+      "hsl": "270, 60%, 60%",
+      "hue": "270"
+    },
+    {
+      "name": "Rose",
+      "value": "rose",
+      "hsl": "350, 80%, 60%",
+      "hue": "350"
+    },
+    {
+      "name": "Gold",
+      "value": "gold",
+      "hsl": "45, 100%, 50%",
+      "hue": "45"
+    },
+    {
+      "name": "Emerald",
+      "value": "emerald",
+      "hsl": "140, 70%, 45%",
+      "hue": "140"
+    },
+    {
+      "name": "Sky",
+      "value": "sky",
+      "hsl": "200, 90%, 55%",
+      "hue": "200"
+    },
+    {
+      "name": "Crimson",
+      "value": "crimson",
+      "hsl": "0, 85%, 50%",
+      "hue": "0"
+    },
+    {
+      "name": "Amethyst",
+      "value": "amethyst",
+      "hsl": "280, 75%, 55%",
+      "hue": "280"
+    },
+    {
+      "name": "Teal",
+      "value": "teal",
+      "hsl": "170, 60%, 50%",
+      "hue": "170"
+    },
+    {
+      "name": "Copper",
+      "value": "copper",
+      "hsl": "25, 80%, 40%",
+      "hue": "25"
+    }
+  ],
+  "defaultColor": {
+    "hsl": "212, 100%, 50%",
+    "hue": "212"
+  }
+}
